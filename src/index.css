@@ -1,0 +1,11 @@
+body {
+    margin: 4%;
+}
+
+header {
+    height: 120px;
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

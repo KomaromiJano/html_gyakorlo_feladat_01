@@ -1,0 +1,18 @@
+{
+  "name": "totalgaz",
+  "version": "0.0.1",
+  "description": "TotalGaz projekt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx lite-server"
+  },
+  "author": "Komáromi János",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}
